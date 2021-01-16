@@ -1,0 +1,10 @@
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojAssemblyReference.cache
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Form1.resources
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Properties.Resources.resources
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.GenerateResource.cache
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\AFİYE\Desktop\GelecegiYazanlarTurkcell\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
